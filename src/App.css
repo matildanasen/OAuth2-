@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-image: radial-gradient(white 20%, transparent 20%),
+    radial-gradient(white 20%, transparent 20%);
+  background-color: lightgoldenrodyellow;
+  background-position: 0 0, 50px 50px;
+  background-size: 100px 100px;
+}
+
+button {
+  background-color: white;
+  padding: 20px;
+  margin: 5%;
+}
